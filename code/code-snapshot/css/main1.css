@@ -1447,7 +1447,7 @@
     box-sizing: border-box
 }
 
-.tingle-modal {
+/* .tingle-modal {
     position: fixed;
     top: 0;
     right: 0;
@@ -1467,7 +1467,7 @@
     opacity: 0;
     cursor: pointer;
     transition: transform .2s ease
-}
+} */
 
 .tingle-modal--noClose .tingle-modal__close,
 .tingle-modal__closeLabel {
